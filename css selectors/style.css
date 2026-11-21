@@ -1,0 +1,24 @@
+*{
+    margin: 100;
+    padding: 200;
+    box-sizing: border-box;
+}
+#aa
+{
+    color: red;
+}
+#bb
+{
+    color: aqua;
+}
+.cc
+{
+    color: blue;
+}
+.dd
+{
+    color: brown;
+}
+h2, h3 {
+    color: chocolate;
+}
